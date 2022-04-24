@@ -1,4 +1,4 @@
-**# CS-305-Portifolio**
+**# CS-305-Portfolio**
 
 **#Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?**
 
